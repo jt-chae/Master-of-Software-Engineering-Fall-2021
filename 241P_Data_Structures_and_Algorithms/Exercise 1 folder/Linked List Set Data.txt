@@ -1,3 +1,4 @@
+time to add words(ns); number of words in set
 10;5510.0
 19;2530.0
 27;3300.0
