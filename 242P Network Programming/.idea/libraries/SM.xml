@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SM/M2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SM/242P Exercise4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SM/M3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
